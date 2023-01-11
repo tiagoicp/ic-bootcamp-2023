@@ -1,0 +1,12 @@
+{
+    "canisters": {
+        "first_canister":{
+            "main": "main.mo",
+            "type": "motoko"
+        },
+        "website": {
+            "type": "assets",
+            "source": ["assets"]
+        }
+    }
+ }
